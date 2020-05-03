@@ -11,6 +11,6 @@ To create a patch file follow these steps:
 ## Tasks
 You need to finish 3 Tasks to earn your certification from InsideSherpa and JP Morgan Chase & Co.
 
-- [Task 1](Task 1/)
-- [Task 2](Task 2/)
-- [Task 3](Task 3/)
+- [Task 1](Task 1)
+- [Task 2](Task 2)
+- [Task 3](Task 3)
