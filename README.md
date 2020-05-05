@@ -14,3 +14,6 @@ You need to finish 3 Tasks to earn your certification from InsideSherpa and JP M
 - [Task 1](Task 1)
 - [Task 2](Task 2)
 - [Task 3](Task 3)
+
+## System Setup
+Go through the guides given to setup different applications on your system to run the code efficiently.
