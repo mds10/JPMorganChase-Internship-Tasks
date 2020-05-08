@@ -1,4 +1,8 @@
 # JPMorganChase-Internship-Tasks
+![Issues](https://img.shields.io/github/issues/aaishikasb/JPMorganChase-Internship-Tasks)
+![Stars](https://img.shields.io/github/stars/aaishikasb/JPMorganChase-Internship-Tasks)
+![License](	https://img.shields.io/github/license/aaishikasb/JPMorganChase-Internship-Tasks)
+![Collaborators](https://img.shields.io/badge/collaborators-1-red) <br>
 Tasks that I finished for the JP Morgan Chase & Co Virtual Internship on InsideSherpa. Note that you have to submit a Patch File.
 
 ## Create A Patch File
